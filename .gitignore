@@ -182,3 +182,8 @@ Chinook.db
 .turbo
 .editorconfig
 .scratch
+
+# ignore artifacts in portfolio
+examples/portfolio/*.bundle
+examples/portfolio/*.patch
+examples/portfolio/langgraph/
